@@ -1,0 +1,2 @@
+# utl_diagonal_transpose_while_keeping_all_original_rows
+Diagonal transpose while keeping all original rows. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
